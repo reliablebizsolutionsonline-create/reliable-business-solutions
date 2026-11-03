@@ -1,7 +1,2 @@
-RELIABLE BUSINESS SOLUTIONS WEBSITE
-
-Pages: Home, About Us, Our Services, How We Work, Security & Privacy, Our Team & Resources, Contact Us.
-
-Preview: extract the ZIP and open index.html in a browser.
-The site uses online Unsplash photos, so an internet connection is needed for images.
-Review service scope, security controls and operating-hour claims before publishing.
+RELIABLE BUSINESS SOLUTIONS website
+Upload all files in this folder to the root of the GitHub repository, replacing existing files when prompted. Keep rbs-logo.png and hero-night-office.png alongside the HTML files and style.css. Cloudflare Pages will redeploy automatically after the GitHub commit.
